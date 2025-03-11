@@ -5,31 +5,31 @@
             "assets": [
                 {
                     "alias": "candy_0",
-                    "src": "/assets/textures/candy_0.png"
+                    "src": "assets/textures/candy_0.png"
                 },
                 {
                     "alias": "candy_1",
-                    "src": "/assets/textures/candy_1.png"
+                    "src": "assets/textures/candy_1.png"
                 },
                 {
                     "alias": "candy_2",
-                    "src": "/assets/textures/candy_2.png"
+                    "src": "assets/textures/candy_2.png"
                 },
                 {
                     "alias": "candy_3",
-                    "src": "/assets/textures/candy_3.png"
+                    "src": "assets/textures/candy_3.png"
                 },
                 {
                     "alias": "candy_4",
-                    "src": "/assets/textures/candy_4.png"
+                    "src": "assets/textures/candy_4.png"
                 },
                 {
                     "alias": "candy_5",
-                    "src": "/assets/textures/candy_5.png"
+                    "src": "assets/textures/candy_5.png"
                 },
                 {
                     "alias": "candy_6",
-                    "src": "/assets/textures/candy_6.png"
+                    "src": "assets/textures/candy_6.png"
                 }
             ]
         },
@@ -38,7 +38,7 @@
             "assets": [
                 {
                     "alias": "background",
-                    "src": "/assets/ui/background.jpg"
+                    "src": "assets/ui/background.jpg"
                 }
             ]
         }

@@ -7,7 +7,7 @@ import ObjectManager from "../../managers/ObjectManager";
 import { getRandomCandyId } from "../../utils/random";
 import { Body, Events } from "matter-js";
 import { CustomBody } from "../../data/types";
-
+ 
 class Game {
     private renderer = new Renderer();
     private physics = new Physics();
@@ -24,7 +24,7 @@ class Game {
     }
 
     private async loadAssets(): Promise<void> {
-        await Assets.init({ manifest: "/manifest.json" });
+        await Assets.init({ manifest: "manifest.json" });
         await Assets.loadBundle("candies");
         await Assets.loadBundle("ui");
     }
